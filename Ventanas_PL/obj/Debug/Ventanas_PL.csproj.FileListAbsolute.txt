@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.Pantallas.Ventanas.frm_Ventanas.resources
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.Properties.Resources.resources
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_PL.exe.config
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_PL.exe
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_PL.pdb
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_BLL.dll
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_DAL.dll
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_BLL.pdb
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_DAL.pdb
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.csproj.CopyComplete
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.exe
+C:\Users\PC\source\repos\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.pdb
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_PL.exe.config
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_PL.exe
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_PL.pdb
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_BLL.dll
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_DAL.dll
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_BLL.pdb
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\bin\Debug\Ventanas_DAL.pdb
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.Pantallas.Ventanas.frm_Ventanas.resources
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.csproj.CopyComplete
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.exe
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_PL\obj\Debug\Ventanas_PL.pdb

@@ -1,0 +1,18 @@
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\bin\Debug\Ventanas_BLL.dll
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\bin\Debug\Ventanas_BLL.pdb
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\bin\Debug\Ventanas_DAL.dll
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\bin\Debug\Ventanas_DAL.pdb
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.csproj.CopyComplete
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.dll
+C:\Users\PC\source\repos\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.pdb
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\bin\Debug\Ventanas_BLL.dll
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\bin\Debug\Ventanas_BLL.pdb
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\bin\Debug\Ventanas_DAL.dll
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\bin\Debug\Ventanas_DAL.pdb
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.csproj.CopyComplete
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.dll
+C:\Users\PC\Documents\Visual Studio Progra 3\Tarea 4\Ventanas_BLL\obj\Debug\Ventanas_BLL.pdb
